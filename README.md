@@ -12,6 +12,7 @@ Have fun and know that things might be tough and challenging but once you start 
 The fun really begins and our imagination is the only thing that will hold us back.
 
 Cheers ☕
+___
 
 The project should look like this except without the usage of Axe Developer tools if they are not installed:
 ![react-mui-login-signup-demo](https://github.com/redeyedev-208/react-mui-login-signup/assets/60634649/5b4392d2-f4ad-4a9a-b585-9342118b0d20)
